@@ -100,8 +100,3 @@ let user = {
 console.log(user.age)
 
 
-
-/* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
-particlesJS.load('particles-js', 'js/particles.json', function() {  // there was a problem in the pass but solved
-  console.log('callback - particles.js config loaded');
-});
