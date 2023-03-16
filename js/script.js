@@ -25,7 +25,7 @@ $("#singer .head").click(function (e) {
 });
 
 // ================== Duration section =================
-let eventDate = new Date("2023-03-12");
+let eventDate = new Date("2023-10-25");
 let currDate = new Date();
 let timeDiff = eventDate.getTime() - currDate.getTime();
 
